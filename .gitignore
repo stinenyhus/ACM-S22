@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Files - dont push the csv or the models 
+*.csv
+*.rds
+
+# Dont push the file with the videos without Riccardos approval
+videos.txt
